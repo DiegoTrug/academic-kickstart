@@ -22,9 +22,16 @@ date_format = "Jan 2006"
   company = "Extrumex S.A de C.V"
   company_url = "https://extrumex.com.mx/"
   location = "Santa Catarina, NL"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2018-09-23"
+  date_end = "2019-05-23"
+  description = """
+  Actividades:
+  
+  * Apoyo en Instalación e Implementación de Línea de Extrusión #1.
+  * Documentación, Estandarización y Capacitación Línea de Extrusión #1. (JWELL)
+  * Creación de aplicación móvil para el mantenimiento preventivo (CheckList de Arranque).
+  
+  """
 
 
 [[experience]]
