@@ -25,11 +25,12 @@ date_format = "Jan 2006"
   date_start = "23-09-2018"
   date_end = "23-05-2019"
   description = """
-  Responsibilities include:
+  Actividades:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Documentación de procesos y apoyo en instalación de máquina extrusora JWELL
+  * Estandarización y Capacitación de Línea de Extrusión # 1 (JWELL)
+  * Creación de Aplicación móvil para Mantenmiento Preventivo (CheckList de Arranque)
+  
   """
 
 [[experience]]
