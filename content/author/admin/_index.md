@@ -33,7 +33,7 @@ interests = [
 user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
-[[education.courses]]
+[[Educación.courses]]
   course = "Ingeniero Industrial Administrador"
   institution = "Facultad de Ciencias Químicas (FCQ-UANL)"
   year = 2021
