@@ -70,4 +70,10 @@ subtitle = ""
   icon_pack = "fab"
   name = "Google-SketchUp"
   description = "50%"
+  
+    [[feature]]
+  icon = "microsoft"
+  icon_pack = "fab"
+  name = "Microsoft Office (Excel, Word, PowerPoint)"
+  description = "50%"
 +++
