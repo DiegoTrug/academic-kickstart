@@ -29,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "bolt"
   icon_pack = "fas"
-  name = "Electricidad y Electrónica"
+  name = "Electricidad y Relevación Industrial"
   description = ""
 
   
@@ -43,7 +43,14 @@ subtitle = ""
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
-  name = "Arduino y Sensores"
+  name = "Arduino y Sensórica"
+  description = "60%"
+
+
+[[feature]]
+  icon = "adobe"
+  icon_pack = "fas"
+  name = "Adobe Premiere y Adobe Illustrator"
   description = "60%"
 
 +++
