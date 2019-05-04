@@ -36,7 +36,7 @@ subtitle = ""
   icon = "bolt"
   icon_pack = "fas"
   name = "Electricidad y Relevación Industrial"
-  description = "70"
+  description = "70%"
 
   
 [[feature]]
