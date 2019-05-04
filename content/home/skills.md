@@ -32,4 +32,18 @@ subtitle = ""
   name = "Electricidad y Electrónica"
   description = ""
 
+  
+[[feature]]
+  icon = "cubes"
+  icon_pack = "fas"
+  name = "Autodesk Fusion 360"
+  description = "60%"
+  
+    
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Arduino y Sensores"
+  description = "60%"
+
 +++
