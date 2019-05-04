@@ -22,7 +22,7 @@ bio = "My research interests include distributed robotics, mobile computing and 
 email = ""
 
 # List (academic) interests or hobbies
-interests = [
+intereses = [
   "Artificial Intelligence",
   "Computational Linguistics",
   "Information Retrieval"
