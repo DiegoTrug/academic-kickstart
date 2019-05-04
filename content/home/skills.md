@@ -18,18 +18,18 @@ subtitle = ""
   icon = "android"
   icon_pack = "fab"
   name = "Android Development"
-  description = "90%"
+  description = ""
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Estadística Aplicada"
+  description = ""  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "bolt"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Electricidad y Electrónica"
+  description = ""
 
 +++
