@@ -23,7 +23,7 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Proyecto de Ingeniería Industrial.",
+  "Proyectos de Ingeniería Industrial.",
   "Industry of Things.",
   "Innovación en procesos productivos.",
   "Proyectos de mejora contínua."
