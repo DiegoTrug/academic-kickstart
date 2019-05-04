@@ -68,7 +68,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+¡Hola! Me llamo Diego, soy estudiante de ingeniería industrial en la UANL. Actualmente curso 7mo semestre y estaré graduandomé en 2021. Me apasiona la tecnología, soy un indagador y maker de tecnología aplicable en la industria. Siempre he creído que la ingeniería industrial puede ir más allá de la toma de tiempos y mejoras físicas del proceso, con un toque de tecnología combinada con las poderosas herramientas que ofrece la hermosa carrera de Ingeniería Industrial se podrán hacer cosas increíbles y disruptivas en la industria
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
 
