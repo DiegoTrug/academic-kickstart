@@ -18,13 +18,19 @@ subtitle = ""
   icon = "android"
   icon_pack = "fab"
   name = "Android Development"
-  description = ""
+  description = "70%"
+  
+  [[feature]]
+  icon = "apple"
+  icon_pack = "fab"
+  name = "Swift Development"
+  description = "30%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Estadística Aplicada"
-  description = ""  
+  name = "Minitab"
+  description = "70%"  
   
 [[feature]]
   icon = "bolt"
