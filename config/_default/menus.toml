@@ -14,7 +14,7 @@
   weight = 20
 
 [[main]]
-  name = "Projects"
+  name = "Proyectos"
   url = "#projects"
   weight = 30
 
@@ -29,7 +29,7 @@
   weight = 50
 
 [[main]]
-  name = "Contact"
+  name = "Contacto"
   url = "#contact"
   weight = 60
 
