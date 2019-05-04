@@ -49,14 +49,19 @@ subtitle = ""
 
 [[feature]]
   icon = "adobe"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Adobe Premiere y Adobe Illustrator"
   description = "70%"
   
   [[feature]]
   icon = "buysellads"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Autocad"
   description = "50%"
 
+  [[feature]]
+  icon = "google"
+  icon_pack = "fab"
+  name = "Google-SketchUp"
+  description = "50%"
 +++
