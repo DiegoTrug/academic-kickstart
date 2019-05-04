@@ -36,7 +36,7 @@ subtitle = ""
   icon = "bolt"
   icon_pack = "fas"
   name = "Electricidad y Relevación Industrial"
-  description = ""
+  description = "70"
 
   
 [[feature]]
@@ -75,5 +75,5 @@ subtitle = ""
   icon = "microsoft"
   icon_pack = "fab"
   name = "Microsoft Office (Excel, Word, PowerPoint)"
-  description = "50%"
+  description = "90%"
 +++
