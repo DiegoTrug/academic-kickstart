@@ -51,6 +51,12 @@ subtitle = ""
   icon = "adobe"
   icon_pack = "fas"
   name = "Adobe Premiere y Adobe Illustrator"
-  description = "60%"
+  description = "70%"
+  
+  [[feature]]
+  icon = "buysellads"
+  icon_pack = "fas"
+  name = "Autocad"
+  description = "50%"
 
 +++
