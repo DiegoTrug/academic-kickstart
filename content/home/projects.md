@@ -2,6 +2,8 @@ widget = "portfolio"  # Use the Portfolio widget
 headless = true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
+active = true  # Activate this widget? true/false
+weight = 65  # Order that this section will appear.
 
 [content]
   # Page type to display. E.g. project.
