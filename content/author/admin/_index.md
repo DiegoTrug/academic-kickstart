@@ -72,5 +72,5 @@ user_groups = ["Researchers", "Visitors"]
 
 También estudio una carrera técnica en electricidad y electrónica. Para ser honesto, ¡me encanta el mundo de la electricidad! me fascina entender cómo funciona todo lo que nos rodea, desde cómo es que se hizo la instalación eléctrica de mi casa hasta entender cómo fue conectado el motor de una gran máquina industrial. Desde que estudio una carrera técnica he sido capaz de entender cosas que solo coneptualizaba teóricamente, llevando a la práctica con mis propias manos todo aquello que solo era teoría.
 
-Pretendo que esta página web sea mi primera presentación contigo para próximamente quizá tener el gusto de conocernos, aqui podrás visualizar mi Curriculum, proyectos, y posts que estaré haciendo sobre temas que me llamen la atención. ¡Bienvenido!
+Pretendo que esta página web sea mi primera presentación contigo para próximamente tener el gusto de conocernos, aqui podrás visualizar mi Curriculum, proyectos, y posts que estaré haciendo sobre temas que me llamen la atención. ¡Bienvenido!
 
