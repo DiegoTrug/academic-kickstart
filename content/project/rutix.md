@@ -1,7 +1,7 @@
 +++
 date = 2017-12-01
 title = "RutiX"
-image_preview = "rutixx.jpg"
+image_preview = "academic-kickstart/static/img/rutixx.jpg"
 +++
 
 
