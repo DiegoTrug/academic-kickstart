@@ -1,7 +1,7 @@
 +++
 date = 2017-12-01
 title = "RutiX"
-image = "rutixx.jpg"
+image_preview = "rutixx.jpg"
 +++
 
 
