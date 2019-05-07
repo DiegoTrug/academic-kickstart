@@ -5,7 +5,7 @@ image_preview = "rutixx.jpg"
 +++
 
 [header]
-image = "rutixx.jpg"
+image = "headers/rutixx.jpg"
 caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 preview = true  # Show a thumbnail in listings?
 
