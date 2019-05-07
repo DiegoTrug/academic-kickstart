@@ -9,7 +9,7 @@ title = "Psychology Colloquium Series 2018"
 summary = "Schedule of speakers for the 2018 colloquium series at UNSW psychology"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "logo.png"
+image_preview = "descargaa.jpg"
 
 # Tags: can be used for filtering projects.
 tags = ["colloquia","2018","unsw"]
