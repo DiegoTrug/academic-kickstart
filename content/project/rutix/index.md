@@ -14,5 +14,6 @@ image:
   preview_only: false
 ---
 
+RutiX fue un proyecto con un gran equipo, una gran idea y grandes retos. Un gran proyecto que comenzó como una simple idea y que me dejó grandes lecciones sobre el trabajo en equipo, la disciplina y la persistencia.
 
-Hola
+http://rutix.mx/home/
