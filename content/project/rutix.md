@@ -1,7 +1,7 @@
 +++
 date = 2017-12-01
 title = "RutiX"
-image = "academic-kickstart/static/img/rutixx.jpg"
+card-image = "academic-kickstart/static/img/rutixx.jpg"
 +++
 
 
