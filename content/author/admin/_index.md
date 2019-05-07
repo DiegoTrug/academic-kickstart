@@ -68,7 +68,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-¡Hola! Me llamo Diego, soy estudiante de ingeniería industrial en la UANL. Actualmente curso 7mo semestre y estaré graduandomé en 2021. Me apasiona la tecnología, soy un indagador y maker de tecnología para la industria 4.0. Siempre he creído que la ingeniería industrial puede ir más allá de la útil toma de tiempos y mejoras físicas del proceso, con un toque de tecnología combinada con las poderosas herramientas que ofrece la ingeniería industrial se podrán hacer cosas increíbles y disruptivas en la industria.
+¡Hola! Me llamo Diego, soy estudiante de ingeniería industrial en la UANL. Actualmente curso 7mo semestre y estaré graduándome en 2020. Me apasiona la tecnología, soy un indagador y maker de tecnología para la industria 4.0. Siempre he creído que la ingeniería industrial puede ir más allá de la útil toma de tiempos y mejoras físicas del proceso, con un toque de tecnología combinada con las poderosas herramientas que ofrece la ingeniería industrial se podrán hacer cosas increíbles y disruptivas en la industria.
 
 También estudio una carrera técnica en electricidad y electrónica. Para ser honesto, ¡me encanta el mundo de la electricidad! me fascina entender cómo funciona todo lo que nos rodea, desde cómo es que se hizo la instalación eléctrica de mi casa hasta entender cómo fue conectado el motor de una gran máquina industrial. Desde que estudio una carrera técnica he sido capaz de entender cosas que solo coneptualizaba teóricamente, llevando a la práctica con mis propias manos todo aquello que solo era teoría.
 
