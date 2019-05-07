@@ -18,7 +18,6 @@ external_link = ""
 # Does the project detail page use math formatting?
 math = false
 
-+++
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -30,3 +29,4 @@ image:
   focal_point: "Center"
   # Show image only in page previews?
   preview_only: true
++++
