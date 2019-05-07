@@ -12,5 +12,5 @@ summary: "Schedule of speakers for the 2018 colloquium series at UNSW psychology
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 ---
