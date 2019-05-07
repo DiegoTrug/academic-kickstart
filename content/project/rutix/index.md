@@ -11,5 +11,5 @@ summary: "Schedule of speakers for the 2018 colloquium series at UNSW psychology
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  preview_only: true
+  preview_only: false
 ---
