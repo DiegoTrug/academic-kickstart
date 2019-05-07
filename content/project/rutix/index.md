@@ -17,3 +17,5 @@ image:
 RutiX fue un proyecto con un gran equipo, una gran idea y grandes retos. Un gran proyecto que comenzó como una simple idea y que me dejó grandes lecciones sobre el trabajo en equipo, la disciplina y la persistencia.
 
 http://rutix.mx/home/
+
+https://www.milenio.com/estados/desarrollan-estudiantes-aplicacion-para-transporte-publico
