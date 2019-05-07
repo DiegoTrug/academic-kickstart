@@ -8,8 +8,6 @@ title = "Psychology Colloquium Series 2018"
 # Project summary to display on homepage.
 summary = "Schedule of speakers for the 2018 colloquium series at UNSW psychology"
 
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "descargaa.jpg"
 
 # Tags: can be used for filtering projects.
 tags = ["colloquia","2018","unsw"]
@@ -20,7 +18,4 @@ external_link = ""
 # Does the project detail page use math formatting?
 math = false
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = "headers/descarga.png"
 +++
