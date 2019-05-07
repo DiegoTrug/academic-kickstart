@@ -1,4 +1,4 @@
-+++
+---
 # Date this page was created.
 date = 2018-04-27
 
@@ -18,4 +18,11 @@ external_link = ""
 # Does the project detail page use math formatting?
 math = false
 
-+++
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  focal_point: ""
+  preview_only: false
+---
