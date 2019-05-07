@@ -4,5 +4,9 @@ title = "RutiX"
 image_preview = "rutixx.jpg"
 +++
 
+[header]
+image = "rutixx.jpg"
+caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
+preview = true  # Show a thumbnail in listings?
 
 Rutix, más que transporte, innovación
