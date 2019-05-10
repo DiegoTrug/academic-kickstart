@@ -7,7 +7,7 @@ summary = "¿Teoría o práctica?"
  Hola de nuevo! En este post quiero hablarte sobre un tema que tengo dándole vuelta varios días. Se trata de la diferencia entre 
  saber las cosas y saber HACER las cosas. 
  
- Dicen que la práctica hace al maestro, y que el que de nada sirve un conocimiento sin aplicación. Bueno, eso tiene, desde mi punto de vista
+ Dicen que la práctica hace al maestro, y que de nada sirve un conocimiento sin aplicación. Bueno, eso tiene, desde mi punto de vista
  mucha razón, pero también tiene algo que no se ha considerado y es que ambos se complementan. De nada sirve conocimiento sin práctica, asi como 
  tampoco servirá de mucho práctica sin entendimiento.
  
@@ -29,6 +29,6 @@ Sin embargo, no todo fue en vano. Gracias a esos conocimientos adquiridos en ¿c
 Gracias a todo eso, cuando empecé a estudiar mi carrera técnica y vi todo físicamente, lo pude hacer con mis propias manos, pude hacer mi primer circuito, mi primera instalación eléctrica residencial, mi primera conexión de un motor, quedé sorprendido 
 por la combinación y el equilibrio que se genera en el saber y el hacer.
 
-Las definiciones empezaron a cobrar sentido porque lo que me había aprendido de memoria ahora lo podía ver en la vida real. Aprendñi (por fin) a usar un multímetro y que la corriente no tenía que sacarle con un logaritmo, simplemente bastaba con colocal el amperímetro de gancho en el cable y el aparato me daría el valor en un momento dado.
+Las definiciones empezaron a cobrar sentido porque lo que me había aprendido de memoria ahora lo podía ver en la vida real. Aprendí (por fin) a usar un multímetro y que la corriente no tenía que sacarle con un logaritmo, simplemente bastaba con colocal el amperímetro de gancho en el cable y el aparato me daría el valor en un momento dado. Conocí personas muy inteligentes y que me han compartido su conocimiento y sus anécdotas como trabajadores de mantenimiento en las industrias. 
 
 Ninguno de los dos es mejor, SABER y SABER HACER deben de ir siempre de la mano, es la base del conocimiento. Cuando uno descubre el equilibrio de ambos se da cuenta que el mundo es increíble.
