@@ -26,7 +26,7 @@ Todo eso me lo cuestionaba mientras hacía los problemas, era un constante sufri
 Las definicione de voltaje, corriente, resistencia, potencia me las sabía de memoria. Sin embargo, nunca había visto físicamente la diferencia entre ellas. Me daba miedo desconectar un aparato eléctrico y que salieran chispas.
 
 Sin embargo, no todo fue en vano. Gracias a esos conocimientos adquiridos en ¿cómo sacar la resistencia total de un circuito resistivo? ¿Cómo calcular la corriente matemáticamente? ¿Cómo calcular la potencia consumida por cada carga? etc.
-Gracias a todo eso, cuando empecé a estudiar mi carrera técnica y vi todo físicamente, lo pude hacer con mis propias manos, pude hacer mi primer circuito, mi primera instalación eléctrica residencial, mi primera conexión de un motor, quedé sorprendido 
+Gracias a todo eso, cuando empecé a estudiar mi carrera técnica y vi todo físicamente, cuando lo pude hacer con mis propias manos, pude hacer mi primer circuito, mi primera instalación eléctrica residencial, mi primera conexión de un motor; quedé sorprendido 
 por la combinación y el equilibrio que se genera en el saber y el hacer.
 
 Las definiciones empezaron a cobrar sentido porque lo que me había aprendido de memoria ahora lo podía ver en la vida real. Aprendí (por fin) a usar un multímetro y que la corriente no tenía que sacarle con un logaritmo, simplemente bastaba con colocal el amperímetro de gancho en el cable y el aparato me daría el valor en un momento dado. Conocí personas muy inteligentes y que me han compartido su conocimiento y sus anécdotas como trabajadores de mantenimiento en las industrias. 
