@@ -32,3 +32,5 @@ por la combinación y el equilibrio que se genera en el saber y el hacer.
 Las definiciones empezaron a cobrar sentido porque lo que me había aprendido de memoria ahora lo podía ver en la vida real. Aprendí (por fin) a usar un multímetro y que la corriente no tenía que sacarla con un logaritmo, simplemente bastaba con colocar el amperímetro de gancho en el cable y el aparato me daría el valor en un momento dado. Conocí personas muy inteligentes y que me han compartido su conocimiento y sus anécdotas como trabajadores de mantenimiento en las industrias. 
 
 Ninguno de los dos es mejor, SABER y SABER HACER deben de ir siempre de la mano, es la base del conocimiento. Cuando uno descubre el equilibrio de ambos se da cuenta que el mundo es increíble.
+
+{{< video library="1" src="motor.mov" controls="yes" >}}
