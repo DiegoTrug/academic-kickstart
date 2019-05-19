@@ -1,6 +1,5 @@
 ---
   title: "La importancia de estudiar una carrera técnica"
-header:
   image: "featured.jpg"
   caption: "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 ---
