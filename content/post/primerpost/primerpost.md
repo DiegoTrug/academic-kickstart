@@ -15,4 +15,4 @@
  
  Es decisión de cada persona la preparación que adquiera en su vida, pero lo más importante desde mi punto de vista es nunca dejar de aprender.
 
-{{< figure src="featured.jpg" title="A caption" >}}
+{{< figure library="1" src="featured.jpg" title="A caption" >}}
