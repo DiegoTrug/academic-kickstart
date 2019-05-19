@@ -30,4 +30,6 @@ gallery_item:
  
  Es decisión de cada persona la preparación que adquiera en su vida, pero lo más importante desde mi punto de vista es nunca dejar de aprender.
 
+{{< gallery >}}
+
 
