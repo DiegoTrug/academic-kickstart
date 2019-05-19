@@ -33,4 +33,4 @@ Las definiciones empezaron a cobrar sentido porque lo que me había aprendido de
 
 Ninguno de los dos es mejor, SABER y SABER HACER deben de ir siempre de la mano, es la base del conocimiento. Cuando uno descubre el equilibrio de ambos se da cuenta que el mundo es increíble.
 
-{{< video library="1" src="motor.mov" controls="yes" >}}
+{{< video library="1" src="motor.mp4" controls="yes" >}}
