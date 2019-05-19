@@ -1,5 +1,13 @@
 ---
-  title: "La importancia de estudiar una carrera técnica"  
+title: 'Academic: the website builder for Hugo'
+subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
+summary: Create a beautifully simple website in under 10 minutes.
+authors:
+- admin
+
+projects: []
+
+# Set captions for image gallery.
 gallery_item:
 - album: gallery
   caption: Default
@@ -7,7 +15,6 @@ gallery_item:
 - album: gallery
   caption: Ocean
   image: equipo.jpg
-
 ---
 
 
