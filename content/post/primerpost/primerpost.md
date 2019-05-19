@@ -2,6 +2,7 @@
   title: "La importancia de estudiar una carrera técnica"
 image:
   caption: 'Industrial Nanny by Velvet Team'
+   preview_only: false
 ---
 
 
