@@ -1,8 +1,9 @@
 ---
   title: "La importancia de estudiar una carrera técnica"
+
 gallery_item:
-- album: <gallery>
-  image: <diploma_TL>.png
+- album: gallery
+  image: diploma_TL.png
   caption: Write your image caption here
 
   
