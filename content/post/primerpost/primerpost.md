@@ -17,6 +17,15 @@ summary: "¿Una carrera técnica te prepara mejor?"
  Si lo vemos desde un lado profesional creo que dependerá mucho del área en la que te quieras desenvolver, si tu meta es formar parte de un equipo administrativo o tener un trabajo que requiera estar en oficina quizá no requieras ninguno de estos conocimientos. Sin embargo, si tu trabajo será en una planta de manufactura, rodeado de gente experta en el área técnica y de problemas que en gran parte son del ese índole será de mucha ayuda para ti. Quizá tu no serás el encargado de reparar una gran máquina que sufrió un daño, pero quizá si seas el encargado de la línea donde esa máquina falló y aveces no solo basta con conocer la causa-raíz de los problemas, sino también entenderla.
  
  Es decisión de cada persona la preparación que adquiera en su vida, pero lo más importante desde mi punto de vista es nunca dejar de aprender.
+ 
+ {{< figure src="instalacion.JPG" title="Mi primera instalación eléctrica residencial" >}}
+ 
+ 
+ {{< figure src="contactor.JPG" title="Haciendo mi primera conexión de un motor trifásico" >}}
+
+ 
+ 
+
 
 
 
