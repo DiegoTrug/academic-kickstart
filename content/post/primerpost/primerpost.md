@@ -4,12 +4,8 @@ title = "La importancia de estudiar una carrera técnica"
 summary = "¿Una carrera técnica te prepara mejor?"
 image:
   # Caption (optional)
-  caption: "Photo by [Academic](https://sourcethemes.com/academic/)"
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point: "Center"
-  # Show image only in page previews?
-  preview_only: false
+  caption = "Photo by [Academic](https://sourcethemes.com/academic/)"
+
 
 +++
 
