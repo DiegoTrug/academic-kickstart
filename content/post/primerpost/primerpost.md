@@ -3,7 +3,6 @@
 header:
   image: "featured.jpg"
   caption: "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
-
 ---
 
 
