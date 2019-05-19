@@ -18,8 +18,7 @@ summary: "¿Una carrera técnica te prepara mejor?"
  
  Es decisión de cada persona la preparación que adquiera en su vida, pero lo más importante desde mi punto de vista es nunca dejar de aprender.
  
- {{< figure src="featured.jpg" title="Mi primera instalación eléctrica residencial" >}}
- {{< figure src="contactor.jpg" title="Haciendo mi primera conexión de un motor trifásico" >}}
+{{< figure library="1" src="rutixx.jpg" title="A caption" >}}
 
  
  
