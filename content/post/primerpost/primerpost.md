@@ -1,8 +1,9 @@
 ---
   title: "La importancia de estudiar una carrera técnica"
-image:
-  caption: 'Industrial Nanny by Velvet Team'
-   preview_only: false
+header:
+  image: "featured.jpg"
+  caption: "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
+
 ---
 
 
