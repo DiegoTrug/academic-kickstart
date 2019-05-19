@@ -1,5 +1,5 @@
 ---
-date:"2017-12-01"
+
 title: "La importancia de estudiar una carrera técnica"
 summary: "¿Una carrera técnica te prepara mejor?"
 
