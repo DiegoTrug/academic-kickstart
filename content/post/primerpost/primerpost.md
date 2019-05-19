@@ -1,6 +1,5 @@
 ---
   title: "La importancia de estudiar una carrera técnica"
-  image: "featured.jpg"
 ---
 
 
