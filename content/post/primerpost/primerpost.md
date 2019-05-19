@@ -1,5 +1,13 @@
 ---
   title: "La importancia de estudiar una carrera técnica"
+  gallery_item:
+- album: gallery
+  image: descarga.png
+  caption: A caption
+- album: gallery
+  image: logo.png
+  caption: Another caption
+  
 ---
 
 
@@ -15,5 +23,7 @@
  
  Es decisión de cada persona la preparación que adquiera en su vida, pero lo más importante desde mi punto de vista es nunca dejar de aprender.
 
-{{< gallery album="<gallery>" >}} 
 {{< figure library="1" src="featured.jpg" title="A caption" >}}
+
+
+{{< gallery >}}
