@@ -1,20 +1,8 @@
 ---
-title: 'Academic: the website builder for Hugo'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Create a beautifully simple website in under 10 minutes.
-authors:
-- admin
+date:"2017-12-01"
+title: "La importancia de estudiar una carrera técnica"
+summary: "¿Una carrera técnica te prepara mejor?"
 
-projects: []
-
-# Set captions for image gallery.
-gallery_item:
-- album: gallery
-  caption: Default
-  image: diploma_TL.png
-- album: gallery
-  caption: Ocean
-  image: equipo.jpg
 ---
 
 
@@ -30,6 +18,5 @@ gallery_item:
  
  Es decisión de cada persona la preparación que adquiera en su vida, pero lo más importante desde mi punto de vista es nunca dejar de aprender.
 
-{{< gallery >}}
 
 
