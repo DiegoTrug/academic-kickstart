@@ -1,6 +1,8 @@
-+++ date = 2017-12-01 title = "Visión 4.0" summary = "" +++
-
-
++++
+date = 2017-12-01
+title = "Visión 4.0"
+summary = ""
++++
 Visión 4.0
 
 Las áreas de oportunidad de negocio que representa la industria 4.0 son grandísimas. Practicamente es un mercado muy amplio y que promete. No solo industria, también está presente en la medicina, el entretenimiento, la mismísima forma en la que trabajamos y nos relacionamos.
