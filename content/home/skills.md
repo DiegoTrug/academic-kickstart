@@ -20,19 +20,26 @@ subtitle = ""
   name = "Desarrollo de aplicaciones móviles"
   description = "70%"
   
+    
+[[feature]]
+  icon = "bolt"
+  icon_pack = "fas"
+  name = "Electricidad y Relevación Industrial"
+  description = "70%"
+  
+    
+[[feature]]
+  icon = "car-battery"
+  icon_pack = "fab"
+  name = "Electrónica digital y de potencia"
+  description = "70%"
+  
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Minitab"
   description = "70%"  
-  
-[[feature]]
-  icon = "bolt"
-  icon_pack = "fas"
-  name = "Electricidad y Relevación Industrial"
-  description = "70%"
-
   
 [[feature]]
   icon = "cubes"
