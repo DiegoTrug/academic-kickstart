@@ -43,7 +43,7 @@ subtitle = ""
   
   [[feature]]
   icon = "database"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "SQL database"
   description = "60%"
   
