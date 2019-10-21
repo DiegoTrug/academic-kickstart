@@ -38,35 +38,28 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Minitab"
-  description = "70%"  
+  name = "Uso de herramientas Lean"
+  description = "70%" 
+  
+  [[feature]]
+  icon = "database"
+  icon_pack = "fab"
+  name = "SQL database"
+  description = "60%"
   
 [[feature]]
   icon = "cubes"
   icon_pack = "fas"
-  name = "Autodesk Fusion 360"
-  description = "60%"
+  name = "Modelado 3D"
+  description = "40%"
   
     
-[[feature]]
-  icon = "laptop-code"
-  icon_pack = "fas"
-  name = "Arduino y Sensórica"
-  description = "60%"
-
-
-[[feature]]
-  icon = "adobe"
-  icon_pack = "fab"
-  name = "Adobe Premiere y Adobe Illustrator"
-  description = "70%"
-  
   [[feature]]
   icon = "buysellads"
   icon_pack = "fab"
-  name = "Autocad"
+  name = "Dibujo en Autocad"
   description = "50%"
-
+  
   [[feature]]
   icon = "google"
   icon_pack = "fab"
@@ -76,6 +69,7 @@ subtitle = ""
     [[feature]]
   icon = "microsoft"
   icon_pack = "fab"
-  name = "Microsoft Office (Excel, Word, PowerPoint)"
+  name = "Microsoft Office con Macros (Excel, Word, PowerPoint)"
   description = "90%"
+  
 +++
