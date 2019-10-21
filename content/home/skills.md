@@ -15,16 +15,11 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "android"
+  icon = "app-store"
   icon_pack = "fab"
-  name = "Android Development"
+  name = "Desarrollo de aplicaciones móviles"
   description = "70%"
   
-  [[feature]]
-  icon = "apple"
-  icon_pack = "fab"
-  name = "Swift Development"
-  description = "30%"
   
 [[feature]]
   icon = "chart-line"
