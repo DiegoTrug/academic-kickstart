@@ -32,7 +32,7 @@ subtitle = ""
   icon = "car-battery"
   icon_pack = "fab"
   name = "Electrónica digital y de potencia"
-  description = "70%"
+  description = "50%"
   
   
 [[feature]]
