@@ -32,5 +32,23 @@ date_format = "Jan 2006"
   * Creación de aplicación móvil para el mantenimiento preventivo (CheckList de Arranque).
   
   """
+  
+  
+  [[experience]]
+  title = "Practicante de Mejora Contínua"
+  company = "ABB ELECTRIC CONTROL SYSTEMS"
+  company_url = "https://new.abb.com"
+  location = "Apodaca, NL"
+  date_start = "2018-09-23"
+  date_end = ""
+  description = """
+  Actividades:
+  
+  * Desarrollo e implementación de proyectos para reducción de Scrap.
+  * Implementación de proyecto para identificación de números de parte.
+
+  
+  """
+
 
 +++
