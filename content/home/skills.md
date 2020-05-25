@@ -66,7 +66,13 @@ subtitle = ""
   name = "Google-SketchUp"
   description = "50%"
   
-    [[feature]]
+   [[feature]]
+  icon = "microsoft"
+  icon_pack = "fab"
+  name = "Microsoft Office con Macros (Excel, Word, PowerPoint)"
+  description = "90%"
+  
+   [[feature]]
   icon = "microsoft"
   icon_pack = "fab"
   name = "Microsoft Office con Macros (Excel, Word, PowerPoint)"
