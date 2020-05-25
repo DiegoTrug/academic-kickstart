@@ -17,8 +17,8 @@ subtitle = ""
 [[feature]]
   icon = "app-store"
   icon_pack = "fab"
-  name = "Desarrollo de aplicaciones móviles"
-  description = "70%"
+  name = "Mobile Apps Development"
+  description = "Android - Swift"
   
     
 [[feature]]
