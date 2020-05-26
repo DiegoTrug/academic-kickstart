@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experiencia Profesional"
+title = "Professional Background"
 subtitle = ""
 
 # Date format for experience
@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Practicante de Mejora Contínua"
+  title = "Manufacturing Intern"
   company = "Extrumex S.A de C.V"
   company_url = "https://extrumex.com.mx/"
   location = "Santa Catarina, NL"
@@ -27,15 +27,14 @@ date_format = "Jan 2006"
   description = """
   Actividades:
   
-  * Apoyo en Instalación e Implementación de Línea de Extrusión #1.
-  * Documentación, Estandarización y Capacitación Línea de Extrusión #1. (JWELL)
-  * Creación de aplicación móvil para el mantenimiento preventivo (CheckList de Arranque).
-  
+  * Lift up Extrusion Line # 1
+  * Standard Work for Extrusion Line #1
+  * Mobile App for Preventive Maintenance to 3 Phase Motors
   """
   
   
   [[experience]]
-  title = "Practicante de Mejora Contínua"
+  title = "Continuous Improvement Intern"
   company = "ABB ELECTRIC CONTROL SYSTEMS"
   company_url = "https://new.abb.com"
   location = "Apodaca, NL"
@@ -44,8 +43,10 @@ date_format = "Jan 2006"
   description = """
   Actividades:
   
-  * Desarrollo e implementación de proyectos para reducción de Scrap.
-  * Implementación de proyecto para identificación de números de parte.
+  * Project Manager for OnBase implementation.
+  * C# and WPF (Xaml) programming for user interfaces.
+  * SAP scripting.
+  * Apply Lean-6S methodologies to scrap related projects
 
   
   """
