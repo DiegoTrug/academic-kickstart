@@ -54,6 +54,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-¡HI! My name is Diego I am half a year to get a degree in Industrial Engineering and a degree as an Electrical and Electronics Technician. I have a big passion for technology and I've got about 2 years of experience working with software and development teams, I love to challenge myself and my skills learning something new everyday. I'm a truly believer of Industry 4.0 and my goal es to create a pathway in my carreer to be a professional in tech area for industrial solutions.
+¡HI! My name is Diego I am half a year to get a degree in Industrial Engineering and a degree as an Electrical and Electronics Technician. I have a big passion for technology and I've got about 2 years of experience working with software and development teams, I love to challenge myself and my skills learning something new everyday. I'm a truly believer of Industry 4.0 and my goal is to create a pathway in my carreer to be a professional in tech area for industrial solutions.
 
 ¡Welcome to my webpage!
