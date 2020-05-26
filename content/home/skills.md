@@ -18,7 +18,7 @@ subtitle = ""
   icon = "app-store"
   icon_pack = "fab"
   name = "Mobile App Development"
-  description = "Android - Swift"
+  description = "Android (Java) - IOS (Swift)"
   
     
 [[feature]]
@@ -31,51 +31,32 @@ subtitle = ""
 [[feature]]
   icon = "car-battery"
   icon_pack = "fas"
-  name = "Electrónica digital y de potencia"
-  description = "50%"
+  name = "Digital Electronic"
+  description = "Microcontrollers and Sensors"
   
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Uso de herramientas Lean"
-  description = "70%" 
+  name = "Lean methodologies"
+  description = "Lean and 6 Sigma" 
   
   [[feature]]
   icon = "database"
   icon_pack = "fas"
-  name = "SQL database"
-  description = "60%"
+  name = "Access database"
+  description = "Microsoft Office Access"
   
-[[feature]]
-  icon = "cubes"
-  icon_pack = "fas"
-  name = "Modelado 3D"
-  description = "40%"
+  [[feature]]
+  icon = "microsoft"
+  icon_pack = "fab"
+  name = "Microsoft Office Macros (Excel, Word, PowerPoint)"
+  description = "VBA Programming"
   
-    
   [[feature]]
   icon = "buysellads"
   icon_pack = "fab"
-  name = "Dibujo en Autocad"
-  description = "50%"
-  
-  [[feature]]
-  icon = "google"
-  icon_pack = "fab"
-  name = "Google-SketchUp"
-  description = "50%"
-  
-   [[feature]]
-  icon = "microsoft"
-  icon_pack = "fab"
-  name = "Microsoft Office con Macros (Excel, Word, PowerPoint)"
-  description = "90%"
-  
-   [[feature]]
-  icon = "microsoft"
-  icon_pack = "fab"
-  name = "Microsoft Office con Macros (Excel, Word, PowerPoint)"
-  description = "90%"
-  
+  name = "Autocad"
+  description = "Technical Drawing"
+   
 +++
