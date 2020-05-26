@@ -19,7 +19,12 @@ subtitle = ""
   icon_pack = "fab"
   name = "Mobile App Development"
   description = "Android (Java) - IOS (Swift)"
-  
+      
+[[feature]]
+  icon = "wpforms"
+  icon_pack = "fab"
+  name = "WPF"
+  description = "XAML and C# programming"
     
 [[feature]]
   icon = "bootstrap"
