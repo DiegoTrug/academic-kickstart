@@ -17,15 +17,15 @@ subtitle = ""
 [[feature]]
   icon = "app-store"
   icon_pack = "fab"
-  name = "Mobile Apps Development"
+  name = "Mobile App Development"
   description = "Android - Swift"
   
     
 [[feature]]
   icon = "bolt"
   icon_pack = "fas"
-  name = "Electricidad y Relevación Industrial"
-  description = "70%"
+  name = "Industrial Electrical Systems"
+  description = "Relays, Contactors and 3 Phase Motor Connection"
   
     
 [[feature]]
