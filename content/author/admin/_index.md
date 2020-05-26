@@ -15,14 +15,6 @@ bio = ""
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
-# List (academic) interests or hobbies
-interests = [
-  "Proyectos de Ingeniería Industrial.",
-  "Industry of Things.",
-  "Innovación en procesos productivos.",
-  "Proyectos de mejora contínua."
-]
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups = ["Researchers", "Visitors"]
