@@ -24,13 +24,13 @@ subtitle = ""
   icon = "wpforms"
   icon_pack = "fab"
   name = "WPF"
-  description = "XAML and C# programming"
+  description = "XAML & C# programming"
     
 [[feature]]
-  icon = "bootstrap"
+  icon = "js"
   icon_pack = "fab"
-  name = "Bootstrap Studio"
-  description = "HTML5, CSS3, JS Development"
+  name = "Web Development"
+  description = "HTML5, CSS3 & JS using Bootstrap Studio"
   
 [[feature]]
   icon = "bolt"
@@ -43,26 +43,26 @@ subtitle = ""
   icon = "car-battery"
   icon_pack = "fas"
   name = "Digital Electronic"
-  description = "Microcontrollers and Sensors"
+  description = "Microcontrollers programming (C++ & JS) & Sensors"
   
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Lean methodologies"
-  description = "Lean and 6 Sigma" 
   
   [[feature]]
   icon = "database"
   icon_pack = "fas"
-  name = "Access database"
-  description = "Microsoft Office Access"
+  name = "Databases"
+  description = "Microsoft Office Access, SQL & Google Firebase"
   
   [[feature]]
   icon = "microsoft"
   icon_pack = "fab"
   name = "Microsoft Office Macros (Excel, Word, PowerPoint)"
   description = "VBA Programming"
+  
+  [[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Lean methodologies"
+  description = "Lean and 6 Sigma" 
   
   [[feature]]
   icon = "buysellads"
