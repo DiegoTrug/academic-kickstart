@@ -8,12 +8,6 @@ authors = ["admin"]
 # Is this the primary user of the site?
 superuser = true
 
-# Role/position
-role = "Estudiante de Ingeniería Industrial"
-
-# Organizations/Affiliations
-#   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Universidad Autónoma de Nuevo León (UANL)", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
