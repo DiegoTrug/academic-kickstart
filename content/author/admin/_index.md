@@ -35,12 +35,12 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "Ingeniero Industrial Administrador"
+  course = "Industrial Engineering"
   institution = "Facultad de Ciencias Químicas (FCQ-UANL)"
-  year = 2021
+  year = 2020
 
 [[education.courses]]
-  course = "Técnico en Electricidad y Electrónica Especializada"
+  course = "Electrical and Electronics Technician"
   institution = "Facultad de Ingeniería Mecánica Eléctrica (FIME-UANL)"
   year = 2020
 
@@ -68,9 +68,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-¡Hola! Me llamo Diego, soy estudiante de ingeniería industrial en la UANL. Actualmente curso 8vo semestre y me graduaré de la carrera en Diciembre de 2020. Mi pasión es la tecnología, soy un indagador y maker de tecnología para la industria 4.0. Siempre he creído que la ingeniería industrial puede ir más allá de la útil toma de tiempos y mejoras físicas del proceso, con un toque de tecnología combinada con las poderosas herramientas que ofrece la ingeniería industrial se podrán hacer cosas increíbles y disruptivas en la industria.
+¡HI! My name is Diego I am half a year to get a degree in Industrial Engineering and a degree as an Electrical and Electronics Technician. I have a big passion for technology and I've got about 2 years of experience working with software and development teams, I love to challenge myself and my skills learning something new everyday. I'm a truly believer of Industry 4.0 and my goal es to create a pathway in my carreer to be a professional in tech area for industrial solutions.
 
-También estudio una carrera técnica en electricidad y electrónica. Creí sumamente necesario entender cómo funcionan la electricidad y electrónica de control desde un punto de vista técnico porque todo lo automático requiere control y potencia para funcionar, y soy creyente de que el control automático y la transmisión de datos en tiempo real es el futuro.
-
-Pretendo que esta página web sea mi primera presentación contigo para próximamente tener el gusto de conocernos, aqui podrás visualizar mi Curriculum, proyectos, y posts que estaré haciendo sobre temas que me llamen la atención. ¡Bienvenido!
-
+¡Welcome to my webpage!
