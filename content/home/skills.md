@@ -22,6 +22,12 @@ subtitle = ""
   
     
 [[feature]]
+  icon = "bootstrap"
+  icon_pack = "fab"
+  name = "Bootstrap Studio"
+  description = "HTML5, CSS3, JS Development"
+  
+[[feature]]
   icon = "bolt"
   icon_pack = "fas"
   name = "Industrial Electrical Systems"
